@@ -1,4 +1,4 @@
-package exercicio2;
+package exercicio1;
 
 public abstract class Colaborador {
     private String nome;

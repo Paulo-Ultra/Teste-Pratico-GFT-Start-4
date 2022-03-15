@@ -1,4 +1,4 @@
-package exercicio2;
+package exercicio1;
 
 public class Gerente extends Colaborador {
 

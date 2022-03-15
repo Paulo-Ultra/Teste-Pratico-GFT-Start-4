@@ -1,4 +1,4 @@
-package exercicio2;
+package exercicio1;
 
 public class Supervisor extends Colaborador{
     final private Integer grau = 3;

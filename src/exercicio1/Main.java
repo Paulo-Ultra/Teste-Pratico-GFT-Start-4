@@ -1,9 +1,9 @@
-package exercicio2;
+package exercicio1;
 
 public class Main {
     public static void main(String[] args) {
 
-        Colaborador gerente = new Gerente("Paulo", 35, 8000.00);
+        Colaborador gerente = new Gerente("Paulo", 34, 8000.00);
         System.out.println(gerente.toString());
         gerente.bonificacao();
 
