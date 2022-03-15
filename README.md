@@ -1,4 +1,3 @@
-#Teste-Prático-GFT-Start#4
 <p align="center">
   <a href="https://www.gft.com/br/pt/" target="_blank">
     <img align="center" width="300" src="https://github.com/Paulo-Ultra/GFT-START-3/blob/main/GFT%20Logo.png" style="max-width:100%;">
