@@ -14,7 +14,7 @@ Como uma experiente parceira tecnológica, a GFT está comprometida a impulsiona
 
 Fundada em 1987, a GFT conta com uma equipe global de aproximadamente 5.000 colaboradores na Europa, América do Norte e América do Sul. As ações da GFT estão listadas na Bolsa de Frankfurt (fonte: https://blog.gft.com/br/sobre-a-gft/)
 
-# Sobre a Dio
+# ⚙️ Sobre a Dio
 
 No final de 2018, notando a demanda por profissionais da área, tiveram a ideia de criar uma plataforma de educação gratuita. Assim, nascia a DIO (Digital Innovation One), uma escola de programação que conecta seus alunos a empresas em busca de mão de obra tecnológica. (fonte: https://revistapegn.globo.com/Startups/noticia/2021/02/exclusivo-dio-plataforma-gratuita-de-educacao-que-conecta-desenvolvedores-empresas-recebe-aporte-de-r-35-milhoes.html)
 
