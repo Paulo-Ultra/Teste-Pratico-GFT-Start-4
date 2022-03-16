@@ -7,6 +7,18 @@
 
 # Teste Prático GFT Start #4
 
+# ⚙️ Minha Experiência
+
+Apesar do nervosismo foi uma experiência incrível.
+
+Estou upando o repositório após o horário apenas para refatorar a validação do exercício número 2.
+Mas deixei comentado como subiu o código antes do horário terminar.
+
+A pressão do horário próximo de acabar me fez confundir o uso da condicional no if que seria o (ou) || e não (e) && e vi o melhor a ser usado seria o while e não o if.
+
+Nunca tinha feito nenhuma prova de criar códigos com tempo, então fica a experiência, o aprendizado e também meus agradecimentos a todos os envolvidos nesse processo.
+
+
 
 # ⚙️ Sobre a GFT
 
